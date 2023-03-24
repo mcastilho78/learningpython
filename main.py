@@ -22,3 +22,13 @@ else:
   print("A luz está apagada.")
 
 #comentário
+
+idade = 18
+
+if (idade >= 18):
+  print("É uma pessoa maior de idade.")
+else:
+  if (idade >= 7):
+    print("É um adolescente.")
+  else:
+    print("É uma criança.")
